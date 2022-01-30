@@ -10,10 +10,17 @@ h1{
 }
 .half-width{
     width: 40% ;
-    float: left ;
+    float: left ;   
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
     width: 100%;
+}
+.top-bg{
+    border: solid red;
+    background-image: url("/images/top-bg.png");
+}
+section{
+    height: 500px;
 }
